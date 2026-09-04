@@ -1,0 +1,365 @@
+{
+  "ok": true,
+  "schema": "bahabar-market-v1",
+  "generated_at": "2026-09-04T21:42:20.244000+00:00",
+  "source": {
+    "name": "TGJU",
+    "url": "https://www.tgju.org/",
+    "attribution": "Prices scraped from public TGJU pages"
+  },
+  "market_count": 23,
+  "data": {
+    "date": "2026-09-04T21:42:20.244000+00:00",
+    "gold": {
+      "GOLD18K": {
+        "current": 23518800.0,
+        "min": {
+          "1hour": 23518800.0
+        },
+        "max": {
+          "1hour": 23518800.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 235188000.0,
+          "raw_unit": "IRR",
+          "label": "طلای 18 عیار"
+        }
+      },
+      "GOLD24K": {
+        "current": 31358200.0,
+        "min": {
+          "1hour": 31358200.0
+        },
+        "max": {
+          "1hour": 31358200.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 313582000.0,
+          "raw_unit": "IRR",
+          "label": "طلای 24 عیار"
+        }
+      },
+      "MAZANEH": {
+        "current": 101882000.0,
+        "min": {
+          "1hour": 101882000.0
+        },
+        "max": {
+          "1hour": 101882000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 1018820000.0,
+          "raw_unit": "IRR",
+          "label": "مثقال طلا"
+        }
+      },
+      "OUNCE": {
+        "current": 979214007.8000001,
+        "min": {
+          "1hour": 979214007.8000001
+        },
+        "max": {
+          "1hour": 979214007.8000001
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 4429.63,
+          "raw_unit": "USD",
+          "label": "انس طلا"
+        }
+      },
+      "SEKE_1G": {
+        "current": 35000000.0,
+        "min": {
+          "1hour": 35000000.0
+        },
+        "max": {
+          "1hour": 35000000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 350000000.0,
+          "raw_unit": "IRR",
+          "label": "سکه گرمی"
+        }
+      },
+      "SEKE_BAHAR": {
+        "current": 230735000.0,
+        "min": {
+          "1hour": 230735000.0
+        },
+        "max": {
+          "1hour": 230735000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 2307350000.0,
+          "raw_unit": "IRR",
+          "label": "سکه بهار آزادی"
+        }
+      },
+      "SEKE_EMAMI": {
+        "current": 234010000.0,
+        "min": {
+          "1hour": 234010000.0
+        },
+        "max": {
+          "1hour": 234010000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 2340100000.0,
+          "raw_unit": "IRR",
+          "label": "سکه امامی"
+        }
+      },
+      "SEKE_NIM": {
+        "current": 120000000.0,
+        "min": {
+          "1hour": 120000000.0
+        },
+        "max": {
+          "1hour": 120000000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 1200000000.0,
+          "raw_unit": "IRR",
+          "label": "نیم سکه"
+        }
+      },
+      "SEKE_PRS100": {
+        "current": 2105000.0,
+        "min": {
+          "1hour": 2105000.0
+        },
+        "max": {
+          "1hour": 2105000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 21050000.0,
+          "raw_unit": "IRR",
+          "label": "سکه پارسیان ۰/۱۰۰"
+        }
+      },
+      "SEKE_PRS200": {
+        "current": 3860000.0,
+        "min": {
+          "1hour": 3860000.0
+        },
+        "max": {
+          "1hour": 3860000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 38600000.0,
+          "raw_unit": "IRR",
+          "label": "سکه پارسیان ۰/۲۰۰"
+        }
+      },
+      "SEKE_PRS400": {
+        "current": 7370000.0,
+        "min": {
+          "1hour": 7370000.0
+        },
+        "max": {
+          "1hour": 7370000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 73700000.0,
+          "raw_unit": "IRR",
+          "label": "سکه پارسیان ۰/۴۰۰"
+        }
+      },
+      "SEKE_PRS500": {
+        "current": 9125000.0,
+        "min": {
+          "1hour": 9125000.0
+        },
+        "max": {
+          "1hour": 9125000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 91250000.0,
+          "raw_unit": "IRR",
+          "label": "سکه پارسیان ۰/۵۰۰"
+        }
+      },
+      "SEKE_PRS700": {
+        "current": 12635000.0,
+        "min": {
+          "1hour": 12635000.0
+        },
+        "max": {
+          "1hour": 12635000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 126350000.0,
+          "raw_unit": "IRR",
+          "label": "سکه پارسیان ۰/۷۰۰"
+        }
+      },
+      "SEKE_ROB": {
+        "current": 66000000.0,
+        "min": {
+          "1hour": 66000000.0
+        },
+        "max": {
+          "1hour": 66000000.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 660000000.0,
+          "raw_unit": "IRR",
+          "label": "ربع سکه"
+        }
+      }
+    },
+    "currency": {
+      "AED": {
+        "current": 60216.0,
+        "min": {
+          "1hour": 60216.0
+        },
+        "max": {
+          "1hour": 60216.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 602160.0,
+          "raw_unit": "IRR",
+          "label": "درهم امارات"
+        }
+      },
+      "EUR": {
+        "current": 257790.0,
+        "min": {
+          "1hour": 257790.0
+        },
+        "max": {
+          "1hour": 257790.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 2577900.0,
+          "raw_unit": "IRR",
+          "label": "یورو"
+        }
+      },
+      "GBP": {
+        "current": 297310.0,
+        "min": {
+          "1hour": 297310.0
+        },
+        "max": {
+          "1hour": 297310.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 2973100.0,
+          "raw_unit": "IRR",
+          "label": "پوند انگلیس"
+        }
+      },
+      "TRY": {
+        "current": 4670.0,
+        "min": {
+          "1hour": 4670.0
+        },
+        "max": {
+          "1hour": 4670.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 46700.0,
+          "raw_unit": "IRR",
+          "label": "لیر ترکیه"
+        }
+      },
+      "USD": {
+        "current": 221060.0,
+        "min": {
+          "1hour": 221060.0
+        },
+        "max": {
+          "1hour": 221060.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 2210600.0,
+          "raw_unit": "IRR",
+          "label": "دلار"
+        }
+      }
+    },
+    "crypto": {
+      "BTC": {
+        "current": 16894505300.0,
+        "min": {
+          "1hour": 16894505300.0
+        },
+        "max": {
+          "1hour": 16894505300.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 168945053000.0,
+          "raw_unit": "IRR",
+          "label": "بیت کوین"
+        }
+      },
+      "ETH": {
+        "current": 523990140.0,
+        "min": {
+          "1hour": 523990140.0
+        },
+        "max": {
+          "1hour": 523990140.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 5239901400.0,
+          "raw_unit": "IRR",
+          "label": "اتریوم"
+        }
+      },
+      "USDT": {
+        "current": 219670.0,
+        "min": {
+          "1hour": 219670.0
+        },
+        "max": {
+          "1hour": 219670.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 2196700.0,
+          "raw_unit": "IRR",
+          "label": "تتر"
+        }
+      },
+      "XRP": {
+        "current": 292150.0,
+        "min": {
+          "1hour": 292150.0
+        },
+        "max": {
+          "1hour": 292150.0
+        },
+        "source": {
+          "provider": "tgju.org",
+          "raw_value": 2921500.0,
+          "raw_unit": "IRR",
+          "label": "ریپل"
+        }
+      }
+    }
+  }
+}
