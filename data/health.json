@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "generated_at": "2026-11-28T14:55:18.849000+00:00",
+  "duration_ms": 3422,
+  "market_count": 39,
+  "expected_market_count": 34,
+  "parsian_error": null,
+  "source": "https://www.tgju.org/",
+  "extractor_version": 3,
+  "price_basis": "visible_market_price",
+  "market_time_verified": false,
+  "missing_markets": []
+}
